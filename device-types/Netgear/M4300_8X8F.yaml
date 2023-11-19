@@ -1,0 +1,15 @@
+---
+manufacturer: Netgear
+model: M4300-8X8F
+slug: netgear-m4300-8x8f
+u_height: 1
+airflow: front-to-rear
+comments: 'Documentation: [https://www.netgear.de/support/product/m4300-8x8f.aspx](https://www.netgear.de/support/product/m4300-8x8f.aspx)'
+subdevice_role: parent
+module-bays:
+  - name: unit-1
+    position: '1'
+    description: Switch card
+  - name: unit-2
+    position: '2'
+    description: Switch card
